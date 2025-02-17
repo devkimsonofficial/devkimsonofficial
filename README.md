@@ -119,16 +119,6 @@
   </span>
 </p>
 
-<h2>📊 Stats</h2>
-<p align="center">
-  <a href="https://github.com/kkn1125/github-readme-stats">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=kkn1125&show_icons=true&theme=cobalt&locale=kr" />
-  </a>
-  <a href="https://github.com/kkn1125/github-readme-stats">
-    <img height="150" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkn1125&layout=compact&theme=cobalt&locale=kr" />
-  </a>
-  
-</p>
 
 <a href="https://kkn1125.github.io/portfolio">
 
